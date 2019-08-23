@@ -36,7 +36,7 @@
                                     <a href="/about">About</a>
                                 </li> 
                                  <li>
-                                    <a href="/canteens">Canteens</a>
+                                    <a href="/fixer">fixer</a>
                                 </li>
                                 <li>
                                     <a href="#">
